@@ -26,7 +26,7 @@ Especially, we use the adjustment operation proposed by [Xu et al, 2018](https:/
 We compare our model with 7 baselines, including Transformer, Anomalyformer, etc. **Generally,  Spatio-Temporal Transformer achieves SOTA.**
 
 <p align="center">
-<img src=".\pics\results.png" height = "450" alt="" align=center />
+<img src=".\pics\results (2).png" height = "450" alt="" align=center />
 </p>
 
 
