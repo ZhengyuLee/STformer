@@ -13,7 +13,7 @@ Unsupervised detection of anomaly in time series is a challenging problem, which
 ## Get Started
 
 1. Install Python 3.6, PyTorch >= 1.4.0. 
-2. Download data. You can download the dataset used in the experiment and all the code on this webpage from the [Dropbox link](https://www.dropbox.com/sh/jtpmdoxyg2ybolh/AABL9oYTWreFxFBAgqOGxafJa?dl=0). Unzip file `./dataset/data.zip` to the same path `./dataset`, you can get the four kinds of data used in the experiment. **All the datasets are well pre-processed**. 
+2. Download data. You can download the dataset used in the experiment and all the code on this webpage from the [Dropbox link](https://www.dropbox.com/sh/jtpmdoxyg2ybolh/AABL9oYTWreFxFBAgqOGxafJa?dl=0). Unzip file `./dataset/data.zip` to the same path `./dataset`, you can get the four kinds of data. **All the datasets are well pre-processed**. 
 3. Train and evaluate. We provide the experiment scripts of all benchmarks under the file `./Executable.sh`.This file contains the training and testing code for the four datasets. You can reproduce the experiment results as follows:
 ```bash
 bash ./Executable.sh
